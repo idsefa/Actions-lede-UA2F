@@ -8,7 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: R3P UA2F mini
+name: Orange Pi R1 Plus LTS LEDE
 
 on:
   repository_dispatch:
